@@ -5,10 +5,6 @@
 ## 🚀 Skills
 🍞 **Frontend** / 🏞️ **Backend** / 🍊 **Network Security**
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-
 <!--
 ## 🏆 Achievements
 - **GitHub Trending**: #1 Repository of the Day
@@ -20,13 +16,18 @@
 -->
 
 ## 🍍 Tech Stack
+<!--
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+-->
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,less,scss,go,nodejs,react,vue,tailwindcss,redux,bootstrap,electron,tauri,threejs)](https://skillicons.dev)
 
+## 🔨 Tools I Use
+[![My Skills](https://skillicons.dev/icons?i=vscode,hbuilder,mysql,docker,nginx,git,npm,pnpm,yarn,vite,webpack,babel,github,aws,)](https://skillicons.dev)
 
 <!--
 **chengSenLong/chengSenLong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
