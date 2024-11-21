@@ -27,7 +27,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,less,scss,go,nodejs,react,vue,tailwindcss,redux,bootstrap,electron,tauri,threejs)](https://skillicons.dev)
 
 ## 🔨 Tools I Use
-[![My Skills](https://skillicons.dev/icons?i=vscode,hbuilder,mysql,docker,nginx,git,npm,pnpm,yarn,vite,webpack,babel,github,aws,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,mysql,docker,nginx,git,npm,pnpm,yarn,vite,webpack,babel,github,aws,)](https://skillicons.dev)
 
 <!--
 **chengSenLong/chengSenLong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
